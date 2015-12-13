@@ -10,7 +10,7 @@ function init() {
         zoom: 15,
 
         // The latitude and longitude to center the map (always required)
-        center: new google.maps.LatLng(40.748668, -73.988615), // 6th Ave, New York, NY 23458
+        center: new google.maps.LatLng(50.060657, 19.938300),
 
         // Disables the default Google Maps UI components
         disableDefaultUI: true,
@@ -32,7 +32,7 @@ function init() {
 
     // Custom Map Marker Icon - Customize the map-marker.png file to customize your icon
     var image = 'img/map-marker.png';
-    var myLatLng = new google.maps.LatLng(40.748668, -73.988615); // 6th Ave, New York, NY 23458
+    var myLatLng = new google.maps.LatLng(50.060657, 19.938300); // 6th Ave, New York, NY 23458
     var beachMarker = new google.maps.Marker({
         position: myLatLng,
         map: map,
