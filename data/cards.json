@@ -1,0 +1,23 @@
+{
+   "transport":[
+      {
+         "text":"Stoisz w korku samochodem, -1 do zdrowia, -1 do kasy, +1 do smogu."
+      },
+      {
+         "text":"Kupiles bilet miesieczny malopolskiej karty aglomeracyjnej, jezdzisz za darmo pociagami i mpk. +1 do kasy, -1 do smogu"
+      }
+   ],
+   "weather":[
+      {
+         "text":"Zrobilo sie zimno, ludzie znowu palą w piecach. Smog sie pogarsza o 1."
+      }
+   ],
+   "cash":[
+      {
+         "text":"Znalazles 1 pieniadz na chodniku."
+      },
+      {
+         "text":"Byles w pracy po godzinach, dobywasz 3 pieniadze."
+      }
+   ]
+}
